@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Build a 90s Teenager - Year 10 Legal",
+  "short_name": "90s Legal",
+  "description": "Answer Year 10 Legal Studies questions to build a 1990s teenager and their bedroom.",
+  "lang": "en-AU",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#008080",
+  "theme_color": "#008080",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
